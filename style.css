@@ -1,0 +1,84 @@
+body {
+    font-family: "Nunito", sans-serif;
+}
+
+.header {
+    background-color: #ffffff;
+    color: rgb(255, 0, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.header_item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.div1 {
+    background-color: #ffffff;
+    display: block;
+    margin: 30px;
+    padding: 10px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.wtf {
+    text-align: center;
+}
+
+.container {
+    background-color: #ffffff;
+    margin: 30px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* Espacio entre el título y la sección de heejin */
+}
+
+.section {
+    display: flex;
+    gap: 40px; /* Espacio entre la imagen y el texto */
+    align-items: flex-start; /* Alinea al principio del contenedor */
+}
+
+.loonamembers {
+    text-align: center;
+}
+
+.heejin {
+    margin-left: 50px;
+    color: #ED008E;
+}
+
+.heejinpfp { /* Ajusta el tamaño máximo de la imagen al contenedor */
+    height: 250px; /* Mantiene la proporción de la imagen */
+    width: 170px;
+}
+
+.heejindesc {
+    margin-top: 70px; /* Ajusta el espacio superior para alinear verticalmente el texto */
+    margin-right: 50px;
+}
+
+.heejinmeme1 {
+    margin-top: 70px;
+}
+
+.heejinmeme2 {
+    margin-top: 70px;
+}
+
+.haseul {
+    margin-left: 50px;
+    color: #03A233;
+}
+
+.haseulpfp {
+    height: 210px;
+    width: 180px;
+}
