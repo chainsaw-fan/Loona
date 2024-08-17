@@ -73,6 +73,11 @@ body {
     margin-top: 70px;
 }
 
+.hyunjin {
+    margin-left: 50px; 
+    color: #FFCA14;
+}
+
 .haseul {
     margin-left: 50px;
     color: #03A233;
@@ -81,4 +86,15 @@ body {
 .haseulpfp {
     height: 210px;
     width: 180px;
+}
+
+.yeojin {
+    margin-left: 50px;
+    color: #FE9702;
+}
+
+.vivi {
+    color: #FFC5C8;
+    margin-left: 60px;
+    text-shadow: #c99498 2px 3px 2px;;
 }
