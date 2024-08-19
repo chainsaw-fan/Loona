@@ -67,10 +67,12 @@ body {
 
 .heejinmeme1 {
     margin-top: 70px;
+    margin-right: 10px;
 }
 
 .heejinmeme2 {
     margin-top: 70px;
+    margin-right: 10px;
 }
 
 .hyunjin {
@@ -97,4 +99,19 @@ body {
     color: #FFC5C8;
     margin-left: 60px;
     text-shadow: #c99498 2px 3px 2px;;
+}
+
+.kimlip {
+    color: #D90011;
+    margin-left: 50px;
+}
+
+.jinsoul {
+    color: #0801D5;
+    margin-left: 50px;
+}
+
+.choerry {
+    color: #BA01DE;
+    margin-left: 50px;
 }
