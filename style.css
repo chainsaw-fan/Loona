@@ -150,7 +150,9 @@ body {
     .section {
         padding: 10px;
         gap: 10px;
-        display: block;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
     }
 
     .webon {
