@@ -161,6 +161,10 @@ body {
         flex-direction: column;
     }
 
+    .logo {
+        size: 60%;
+    }
+
     .heejindesc {
         margin-left: 20px;
         margin-right: -20px;
